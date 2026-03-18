@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Miscellaneous
+.DS_Store
+XCT/__pycache__
+XCT/.DS_Store
+XCT/Images
