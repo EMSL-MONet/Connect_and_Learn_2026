@@ -2,11 +2,13 @@
 
 ## Workshop Session
 What: Session 4: In-Person Training   <br>
-When: Wednesday February 5th: 1:00 pm – 2:30 am, or  2:40 pm - 4:10 pm <br>
+When: TBA
 Where:  EMSL 1075, Breakout Room 1
 
-•	Tamas Varga | Materials Scientist  <br>
-•	Billy Petersen | Post Bachelors RA   <br>
+•	Sameera Nalin Venkat | Post Doctorate RA (virtual)  <br>
+•	Aramy Truong | Computational Scientist (in-person)  <br>
+•	Hashitha Petersen | Post Bachelors RA (in-person)  <br>
+•	Layton Washburn | Software Developer (virtual)  <br>
 
 
 # Know before you go
@@ -16,23 +18,19 @@ Where:  EMSL 1075, Breakout Room 1
 **Install Fiji:**
 
 1. Download and install Fiji, an open-source image analysis software: https://fiji.sc/
-2. See the file "MONet CSM-2025 - XCT Tutorial_Tamas-Billy.pptx" for details on how to install Fiji.
+2. See the file "PLACEHOLDER" for details on how to install Fiji.
 
 **Check if Fiji works:**
-
-1. Open the file "Soil core 2 top zoom_500x500x500_8b".
-2. See slides 4-7 in "MONet CSM-2025 - XCT Tutorial_Tamas-Billy.pptx" for help.
 
 * Please install Fiji ahead of time.
 * If you have any problems installing or using Fiji, please see the file "MONet CSM-2025 - XCT Tutorial_Tamas-Billy.pptx" or contact the workshop organizers for help.
  
 ## Data Access
-* Link to download the data for the Fiji-based exercise: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8377888.svg)](https://doi.org/10.5281/zenodo.8377888)
+* Link to download the data for the Fiji-based exercise: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8377888.svg)](https://doi.org/10.5281/zenodo.8377888) {PLACEHOLDER}
 
 ### Learning Objective
 
-* Hands-on learning of basic processing, segmentation, and visualization of 3D tomography data using Fiji
-* Demo XCT data analysis using Avizo
+* Hands-on learning of basic processing, annotation, and segmentation of XCT Data
 
 ### Before The Day
 
@@ -40,7 +38,7 @@ Please take a look at the Prerequisites secion
 
 ### On The Day
 
-Febuary 5th 2025
+{PLACEHOLDER DATE}
 
 Please bring your laptop and have the required software and data set downloaded. 
 
@@ -51,10 +49,4 @@ Learn the following steps with image processing.
 * Performed basic data processing steps
 * Segmented porosity from soil data
 * Visualized pore structure
-
-### See These Presentation in Sessions 2 and 4 and : 
-
-* Session 2 presentation - XCT data processing and analysis for insights into soil microstructure
-* Session 4 tutorial - XCT Data: "MONet CSM-2025 - XCT Tutorial_Tamas-Billy.pptx"
-
 
