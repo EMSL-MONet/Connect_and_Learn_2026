@@ -1,54 +1,43 @@
-# FT-ICR-MS
+# Metabolic modeling for Carbon Use Efficiency (FTICR-MS - metagenomics integration)
 
 ## Workshop Session
-What: Session 4: In-Person Training   <br>
-When: Thursday February 6: 8:30am – 10:40 am, or  10:50 am - 12 noon <br>
-Where:  EMSL 1075, Breakout Room 3
+What: Session 2: In-Person Training   <br>
+When: Tuesday April 28th: 3:30pm - 5:00pm <br>
+Where:  TBD
 
-- Vanessa Garayburu-Caruso | Earth Scientist
-- Kaizad Patel | Earth Scientist
-- Will Kew | Chemist
+* Christian Ayala-Ortiz | Postdoctoral Researcher <br>
+* [Arjun Chakrawal](https://www.emsl.pnnl.gov/staff/arjun-chakrawal) | Computational Scientist   <br>
 
 ## Know Before You Go
-This in-person training session is intended to allow participants to become familiar with FT-ICR-MS data, common visualizations and data usage. The material will be presented using an R markdown script designed for novice users. Participants should make every effort to utilize the scripts provided in order to get the most out of the session, even they are more familiar with another scripting language.
+This in-person training session will introduce participants to two approaches for estimating carbon use efficiency (CUE): (a) an FTICR-MS–based method that uses molecular formula stoichiometry and oxidative respiration kinetics; and (b) a metagenomics-based method that estimates fluxes through Flux Balance Analysis (FBA) using genome-scale metabolic models (GEMs).
 
-There are two scripts in this tutorial:
-1. script 1: introduces users to basic concepts and exploration of FT-ICR-MS data. This will be done using data from 4 samples, included in the .zip file
-2. script 2: provides further applications for FT-ICR-data, like correlating with additional soil data. For this, users must download data from the [MONet data portal](https://sc-data.emsl.pnnl.gov/monet). 
+All the data used in this tutorial was generated as part of the [1000 Soils Research Campaign](https://www.osti.gov/award-doi-service/biblio/10.46936/intm.proj.2021.60141/60000423).
 
-Users may open the .html files to view the final rendered reports, which contain code + text + output graphs.  
-The corresponding .Rmd are the Rmarkdown files that were used to generate these reports. 
+The complete tutorial can be accessed and executed through Google Colab using this [Jupyter Notebook](https://colab.research.google.com/drive/1KK1K7NRsVwaVROXm66_frACaxanO98tM#scrollTo=h42PO1UYZ123).
 
 ## Prerequistes
-Users must download [R](https://cran.r-project.org/) and [RStudio](https://posit.co/downloads/) before the meeting.
+No prerequisites
 
 ## Data Access
-All the materials needed for the hands on session are located in this .zip file: [`fticr_tutorial.zip`](https://github.com/EMSL-MONet/CommSciMtg_Nov25/blob/main/FTICR-MS/fticr_tutorial.zip)
+All the data needed for the tutorial will be downloaded during the demonstration. However, the materials that will be used in this training can also be downloaded from the following links:
+* [FTICR-MS data](https://zenodo.org/records/10888508)
+* [FBA results](https://drive.google.com/file/d/1Inbydfv6dsJ8TTmSyBh_fUi7PhIganBQ/view?usp=drive_link)
 
-## Learning Objective
+## Learning Objectives
 After completing this in-person training, you will be able to:
 
-- Load and inspect FT-ICR-MS data using R Markdown
-- Run code within R Markdown to create FT-ICR-MS visualizations
-- Calculate molecular properties and make common plots of data (van krevelen, DBE, aromaticity, elemental compositions, class compositions)
-- Correlate FT-ICR-MS molecular properties with measured soil properties
-- Become familiar with FT-ICR-MS data and visualizations
-
----
+* Learn how to estimate microbial CUE using both FTICR-MS data and FBA results.
+* Explore how CUE estimates differ between chemical and metabolic modeling approaches.
+* Use gene abundance data to build predictive models for CUE.
+* Identify which genes are most strongly linked to CUE and discuss their biological relevance.
 
 ## Before The Day
-1. If you don't already have R/RStudio, please download and install here:
-    - [R](https://cran.r-project.org/)
-    - [RStudio](https://posit.co/downloads/)
-
-2. Download [`fticr_tutorial.zip`](https://github.com/EMSL-MONet/CommSciMtg_Nov25/blob/main/FTICR-MS/fticr_tutorial.zip), which contains both tutorial scripts and data for script1.
-3. Download the Processed and merged MONet FT-ICR-MS for this session from Google Drive?  <br>
+1. Attend the earlier workshop on metagenomics to learn more about them
 
 ## On The Day
-Bring your computer.  <br>
-Have R and R Studio installed. <br>
-Have datafiles downloaded in a known location on your computer. <br>
-Be ready to learn, network and have fun! <br>
+1. Bring your computer.
+2. Be ready to learn and ask any questions
+3. Have fun!
 
 ## After The Day 
-Enjoy data exploration! Reach out to other participants and EMSL staff with questions and for collaborations. Be sure to write up and publish your findings! 
+1. Reach out to other participants and EMSL staff with questions and for collaborations. Be sure to write up and publish your findings! 
