@@ -7,7 +7,7 @@ Where:  EMSL 1075, Breakout Room 1
 
 •	Sameera Nalin Venkat | Post Doctorate RA (virtual)  <br>
 •	Aramy Truong | Computational Scientist (in-person)  <br>
-•	Hashitha Petersen | Post Bachelors RA (in-person)  <br>
+•	Hasitha Wijesuriya | Post Doctorate RA (in-person)  <br>
 •	Layton Washburn | Software Developer (virtual)  <br>
 
 
