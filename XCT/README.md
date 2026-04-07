@@ -17,13 +17,16 @@ Where:  EMSL 1075, Breakout Room 1
 
 **Install Fiji:**
 
-1. Download and install Fiji, an open-source image analysis software: https://fiji.sc/
-2. See the file "PLACEHOLDER" for details on how to install Fiji.
+1.	Make sure you have the latest version of Java installed (8+): https://www.java.com/en/download/
+2.	Go to the FIJI downloads website: https://imagej.net/software/fiji/downloads
+3.	Unzip the folder to an easily accessible location
+a.	Note: The developers highly suggest against extracting the folder to the Windows “Program Files” directories, as the strict security control over those directories may hinder FIJI’s functionality.
+4.	In the unzipped folder, run “fiji-windows-x64.exe”
 
 **Check if Fiji works:**
 
 * Please install Fiji ahead of time.
-* If you have any problems installing or using Fiji, please see the file "MONet CSM-2025 - XCT Tutorial_Tamas-Billy.pptx" or contact the workshop organizers for help.
+* If you have any problems installing or using Fiji, please contact the workshop organizers for help.
  
 ## Data Access
 * Link to download the data for the Fiji-based exercise: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8377888.svg)](https://doi.org/10.5281/zenodo.8377888) {PLACEHOLDER}
