@@ -10,7 +10,7 @@
 * [Yi Xiao](https://scholar.google.com/citations?user=m6x-k2EAAAAJ&hl=en) | Earth Scientist  <br>
 
 ## Google Colab link
-https://drive.google.com/file/d/1YjEREXSjkeDOVlefGDcbvYsLKJCRCM7d/view?usp=sharing
+[https://drive.google.com/file/d/1YjEREXSjkeDOVlefGDcbvYsLKJCRCM7d/view?usp=sharing](https://colab.research.google.com/drive/163xrXFSpU3l030A9j1KrKfPSEoyZRQzS?usp=sharing)
 
 ## Know Before You Go
 
