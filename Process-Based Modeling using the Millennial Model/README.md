@@ -9,7 +9,9 @@
 * [Aramy Truong](https://www.pnnl.gov/people/aramy-truong) | Post Bachelor Researcher   <br>
 * [Yi Xiao](https://scholar.google.com/citations?user=m6x-k2EAAAAJ&hl=en) | Earth Scientist  <br>
 
-## Google Colab link
+## Google Colab links
+
+[https://drive.google.com/file/d/1BHz4ootLw0PKn4xlt-vJ-03Cwl1U-aLP/view?usp=sharing](https://colab.research.google.com/drive/1BHz4ootLw0PKn4xlt-vJ-03Cwl1U-aLP#scrollTo=d04e881f)
 [https://drive.google.com/file/d/1YjEREXSjkeDOVlefGDcbvYsLKJCRCM7d/view?usp=sharing](https://colab.research.google.com/drive/163xrXFSpU3l030A9j1KrKfPSEoyZRQzS?usp=sharing)
 
 ## Know Before You Go
