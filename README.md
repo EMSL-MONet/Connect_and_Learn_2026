@@ -7,9 +7,9 @@ Within this repository, you will find materials and resources for the in-person 
 Please follow the instructions provided **before arriving at the meeting**.
 
 # Additional Links and Resources
-- [MONet: Connect and Learn 2026 Meeting](https://www.emsl.pnnl.gov/events/monet-connect-and-learn-2026)
+- [EMSL Science Overview](https://www.emsl.pnnl.gov/science)
+- [Conduct Research at EMSL](https://www.emsl.pnnl.gov/proposals)
 - [MONet Homepage](https://www.emsl.pnnl.gov/monet)
-- [EMSL Proposal Calls](https://www.emsl.pnnl.gov/proposals)
 
 For questions about the meeting, please contact:
 - Vanessa A. Garayburu-Caruso (vanessa.garayburu-caruso@pnnl.gov)
