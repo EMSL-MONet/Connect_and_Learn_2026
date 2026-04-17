@@ -43,5 +43,5 @@ Bring your laptop. We (Zach and Young) will provide the link to the KBase Narrat
 ## Agenda on contents of the workshop
 The steps of the metagenomics analysis covered in the KBase Narrative are similar to those used in the JGI pipeline. During the hands-on workshop, we will discuss the fundamental concepts of these processes and the types of data retrieved from them.   
 <a href= "https://docs.google.com/presentation/d/1MtNrwrrPCBk0xyNdtp3VWaqV-zzRCyf-LF70olPd6kg/edit?usp=sharing"> KBase Slide Deck </a>   
-MONet CSM 2025 Org: https://narrative.kbase.us/legacy/orgs/monet-csm-2025   
+MONet Connect and Learn 2026 Org: [https://narrative.kbase.us/legacy/orgs/monetcnl2026metag](https://narrative.kbase.us/legacy/orgs/monetcnl2026metag)   
 KBase Narrative: [https://narrative.kbase.us/narrative/252970](https://narrative.kbase.us/narrative/252970)
