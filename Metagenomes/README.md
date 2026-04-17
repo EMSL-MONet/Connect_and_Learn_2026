@@ -33,8 +33,10 @@ https://docs.kbase.us/getting-started/sign-up/step-by-step
    - Explanations on the example data used.
 
 
-### Before The Day
-We recommend creating a KBase account ahead of time. You can create an account for free, which will enable you to follow along with the presentation. 
+### Before The Workshop
+We recommend creating a KBase account ahead of time. You can create an account for free, which will enable you to follow along with the presentation.
+
+Note: If you already have a KBase account, please send the account username to Young Song (young.song@pnnl.gov). An invite to the KBase Organization page (see below) will be sent. It is preferred that this is done at least 72 hours before the workshop begins.
 
 ### On The Day
 
