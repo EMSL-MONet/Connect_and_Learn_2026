@@ -36,13 +36,16 @@ we will be using Google Colab for most parts of the workshop.
 * (optional) Follow this link to open the initial notebook on Colab and folow the instructions to learn about basic functionalities of jupyter notebook and colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/00-Colab-initiation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 * Follow this link to open the image segmentation notebook on Google Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/01-thresholding-imgseg.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 * Follow this link to open the random forest notebook on Google Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/02-randomforest-imgseg.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-* Follow this link to open the U-net notebook on google Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/03-unet-imgseg.ipynb">
+ 
+ * Follow this link to open the U-net notebook on google Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/03-unet-imgseg.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
