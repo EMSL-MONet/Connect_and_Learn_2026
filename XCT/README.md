@@ -49,6 +49,10 @@ we will be using Google Colab for most parts of the workshop.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+<a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/03-unet-imgseg.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ### Learning Objective
 
