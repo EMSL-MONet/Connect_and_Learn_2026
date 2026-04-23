@@ -13,7 +13,7 @@
 ## Know Before You Go 
 
 This in-person training session will introduce participants to two approaches for modeling ecosystem processes: 
--  [Using Machine Learning Models to Predict Respiration Rate from MONet Data](https://colab.research.google.com/drive/1BHz4ootLw0PKn4xlt-vJ-03Cwl1U-aLP#scrollTo=d04e881f) A step-by-step tutorial on building and evaluating ML models for soil respiration prediction using MONet datasets from 1000 Soils Research Campaign (https://www.osti.gov/award-doi-service/biblio/10.46936/intm.proj.2021.60141/60000423).; and
+-  [Using Machine Learning Models to Predict Respiration Rate from MONet Data](https://drive.google.com/file/d/1n-fUnoB95BntaE76Mu4R2XxthhqLdMDd/view?usp=sharing) A step-by-step tutorial on building and evaluating ML models for soil respiration prediction using MONet datasets from 1000 Soils Research Campaign (https://www.osti.gov/award-doi-service/biblio/10.46936/intm.proj.2021.60141/60000423).; and
 - [Process based modeling of soil C cycle](https://colab.research.google.com/drive/163xrXFSpU3l030A9j1KrKfPSEoyZRQzS?usp=sharing). An introduction to the **Millennial** soil carbon model, which simulates soil carbon dynamics and its response to environmental changes. We will run simple scenarios to explore how soil carbon stocks evolve under different conditions.
 
 The complete tutorial can be accessed and executed through Google Colab using the Jupyter Notebook links above.
