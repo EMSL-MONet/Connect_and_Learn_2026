@@ -28,6 +28,12 @@ a.	Note: The developers highly suggest against extracting the folder to the Wind
 * Please install Fiji ahead of time.
 * If you have any problems installing or using Fiji, please contact the workshop organizers for help.
 
+## Clone the Repository 
+* we will be using Google Colab to for most parts fo the workshop.
+* Follow this link to open the initial notebook on Colab <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/00-Colab-initiation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ### Learning Objective
 
 * Hands-on learning of basic processing, annotation, and segmentation of XCT Data
