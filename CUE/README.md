@@ -11,7 +11,7 @@ Where:  TBD
 ## Know Before You Go
 This in-person training session will introduce participants to two approaches for estimating carbon use efficiency (CUE): (a) an FTICR-MS–based method that uses molecular formula stoichiometry and oxidative respiration kinetics; and (b) a metagenomics-based method that estimates fluxes through Flux Balance Analysis (FBA) using genome-scale metabolic models (GEMs).
 
-All the data used in this tutorial was generated as part of the [1000 Soils Research Campaign](https://www.osti.gov/award-doi-service/biblio/10.46936/intm.proj.2021.60141/60000423).
+All the data used in this tutorial was generated as part of the [MONet pilot Research Campaign](https://www.osti.gov/award-doi-service/biblio/10.46936/intm.proj.2021.60141/60000423).
 
 The complete tutorial can be accessed and executed through Google Colab using this [Jupyter Notebook](https://colab.research.google.com/drive/1KK1K7NRsVwaVROXm66_frACaxanO98tM#scrollTo=h42PO1UYZ123).
 

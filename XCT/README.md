@@ -28,11 +28,26 @@ a.	Note: The developers highly suggest against extracting the folder to the Wind
 * Please install Fiji ahead of time.
 * If you have any problems installing or using Fiji, please contact the workshop organizers for help.
 
-## Clone the Repository 
-* we will be using Google Colab to for most parts fo the workshop.
-* Follow this link to open the initial notebook on Colab <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/00-Colab-initiation.ipynb">
+## Google Colab 
+we will be using Google Colab for most parts of the workshop.
+* (optional) Follow this link to open the initial notebook on Colab and folow the instructions to learn about basic functionalities of jupyter notebook and Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/00-Colab-initiation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+* Follow this link to open the image segmentation notebook on Google Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/01-thresholding-imgseg.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+* Follow this link to open the random forest notebook on Google Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/02-randomforest-imgseg.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+ 
+ * Follow this link to open the U-net notebook on Google Colab. 
+
+<a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/03-unet-imgseg.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ### Learning Objective
 

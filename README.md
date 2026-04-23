@@ -1,15 +1,16 @@
-# MONet Community Science Meeting
-This repository is associated with the [MONet Community Science Meeting](https://www.emsl.pnnl.gov/events/2025-monet-community-science-meeting) happening February 4-6, 2025.
+# MONet: Connect and Learn 2026 Meeting
 
-In the folders within this repository you will find materials and resources associated with the In-Person Learning Sessions.     
+This repository is associated with the [MONet: Connect and Learn 2026 Meeting](https://www.emsl.pnnl.gov/events/monet-connect-and-learn-2026) taking place April 28–30, 2026.
 
-Please follow the instructions provided **before arriving to the meeting**. 
+Within this repository, you will find materials and resources for the in-person learning sessions.
 
-Note: Our team will be available one extra hour at the end of Day 1 to help participants troubleshoot installation issues.
+Please follow the instructions provided **before arriving at the meeting**.
 
-# Additional links and resources 
-- MONet Community Science Meeting - https://www.emsl.pnnl.gov/events/2025-monet-community-science-meeting 
+# Additional Links and Resources
+- [EMSL Science Overview](https://www.emsl.pnnl.gov/science)
+- [Conduct Research at EMSL](https://www.emsl.pnnl.gov/proposals)
+- [MONet Homepage](https://www.emsl.pnnl.gov/monet)
 
-- MONet Homepage - https://www.emsl.pnnl.gov/monet  
-
-- MONet Proposal Calls - https://www.emsl.pnnl.gov/proposals
+For questions about the meeting, please contact:
+- Vanessa A. Garayburu-Caruso (vanessa.garayburu-caruso@pnnl.gov)
+- Arjun Chakrawal (arjun.chakrawal@pnnl.gov)
