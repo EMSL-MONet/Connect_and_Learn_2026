@@ -28,6 +28,9 @@ a.	Note: The developers highly suggest against extracting the folder to the Wind
 * Please install Fiji ahead of time.
 * If you have any problems installing or using Fiji, please contact the workshop organizers for help.
 
+**Repository for Annotation Images:**
+https://drive.google.com/drive/folders/1alvSlWPCH9EhYXDhMAc0N66kTxMrcTYl?usp=drive_link
+
 ## Google Colab 
 we will be using Google Colab for most parts of the workshop.
 * (optional) Follow this link to open the initial notebook on Colab and folow the instructions to learn about basic functionalities of jupyter notebook and Colab. <a target="_blank" href="https://colab.research.google.com/github/EMSL-MONet/Connect_and_Learn_2026/blob/main/XCT/00-Colab-initiation.ipynb">
